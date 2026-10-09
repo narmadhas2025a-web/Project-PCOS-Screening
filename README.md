@@ -1,0 +1,2 @@
+# Project-PCOS-Screening
+AI_based_PCOS_Detection_Screening
